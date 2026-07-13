@@ -19,69 +19,7 @@
   </picture>
 </a>
 ---
-<div align="center">
-## 👨‍💻 About Me
 
-🎓 Computer Science Engineering (AI & ML) Student
-
-🏫 Mohamed Sathak A.J. College of Engineering
-
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
-
-🌱 Currently learning
-
-- Advanced Machine Learning
-- Deep Learning
-- Data Analytics
-- Generative AI
-- Cloud Technologies
-
-🚀 Building real-world AI applications and innovative software solutions.
-
-🎯 Goal: Become an AI Engineer and Full Stack Developer capable of building impactful products.
-
----
-
-## 🚀 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,javascript,html,css" />
-</p>
-
-### AI / Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-- Machine Learning
-- Data Analytics
-- Data Visualization
-- Statistical Analysis
-- Predictive Modeling
-- Feature Engineering
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,bootstrap" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
