@@ -1,8 +1,7 @@
-<div align="center"
+
   
 # Hi there, I'm G. Shahith 👋
->
-<div align="center">
+
 
 ### 🚀 AI & Machine Learning Enthusiast | Data Analytics | Full Stack Developer
 
@@ -14,8 +13,8 @@
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/SAHHITH/SAHHITH1">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAHHITH/SAHHITH1/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/SAHHITH/SAHHITH1/main/light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAHHITH/SAHHITH1/main/light.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/SAHHITH/SAHHITH1/main/dark.svg">
   </picture>
 </a>
 ---
