@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center"
   
 # Hi there, I'm G. Shahith 👋
-
+>
 <div align="center">
 
 ### 🚀 AI & Machine Learning Enthusiast | Data Analytics | Full Stack Developer
