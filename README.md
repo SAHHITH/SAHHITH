@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hi there, I'm G. Shahith 👋
 
 <div align="center">
@@ -9,8 +11,6 @@
 </div>
 
 
-# G SHAHITH - GitHub Profile
-
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/SAHHITH/SAHHITH1">
   <picture>
@@ -19,7 +19,7 @@
   </picture>
 </a>
 ---
-
+<div align="center">
 ## 👨‍💻 About Me
 
 🎓 Computer Science Engineering (AI & ML) Student
